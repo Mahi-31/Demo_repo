@@ -1,1 +1,1 @@
-This file is created for uderstanding git
+This file is created for uderstanding git, like how to update modified actions
